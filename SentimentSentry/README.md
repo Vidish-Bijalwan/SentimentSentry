@@ -1,2 +1,0 @@
-# SentimentSentry
-bla bla bla 
